@@ -12,7 +12,7 @@
     "meta"
   ],
   "repository": "https://github.com/vanillawc/wc-social-link/",
-  "main": "src/wc-social-card.js",
+  "main": "index.js",
   "scripts": {
     "start": "npx live-server --open=demo",
     "dev": "npx live-server --open=dev",
