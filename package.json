@@ -21,5 +21,8 @@
     "preversion": "npm run lint",
     "postversion": "git push --follow-tags"
   },
-  "devDependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "semistandard": "^14.2.0"
+  }
 }
