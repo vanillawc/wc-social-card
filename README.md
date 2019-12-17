@@ -48,4 +48,4 @@ In addition to the links above each of the demos can be run locally with.
 npm run start
 ```
 
-[WC-Social-Card - Basic Usage]: https://vanillawc.github.io/wc-social-card/demo/basic-usage.html
+[WC-Social-Card - Basic Usage]: https://vanillawc.github.io/wc-social-card/demo/index.html
