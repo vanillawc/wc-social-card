@@ -1,0 +1,15 @@
+{
+  "name": "@vanillawc/wc-social-card",
+  "authors": [
+    "Evan Plaice <evanplaice@gmail.com> (http://evanplaice.com/)"
+  ],
+  "keywords": [
+    "web-components",
+    "vanilla",
+    "social",
+    "card",
+    "meta"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
