@@ -2,7 +2,7 @@
 [![NPM Release](https://badgen.net/npm/v/@vanillawc/wc-social-card)](https://www.npmjs.com/package/@vanillawc/wc-social-card)
 [![Downloads](https://badgen.net/npm/dt/@vanillawc/wc-social-card)](https://www.npmjs.com/package/@vanillawc/wc-social-card)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/vanillawc/wc-social-card/master/LICENSE)
-[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@vanillawc/wc-social-card)
+[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/vanillawc/wc-social-card)
 [![Latest Status](https://github.com/vanillawc/wc-social-card/workflows/Latest/badge.svg)](https://github.com/vanillawc/wc-social-card/actions)
 [![Release Status](https://github.com/vanillawc/wc-social-card/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-social-card/actions)
 
