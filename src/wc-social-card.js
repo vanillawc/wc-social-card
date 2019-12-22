@@ -4,6 +4,12 @@ export class WCSocialCard extends HTMLElement {
     return ['image', 'title', 'type', 'url'];
   }
 
+  attributeChangedCallback (name, oldValue, newValue) {
+    if (oldValue !== newValue) {
+      this[name] = newValue;
+    }
+  }
+
   get image () { return this.getAttribute('image'); }
   set image (value) {
     this.setAttribute('image', value);
@@ -26,12 +32,6 @@ export class WCSocialCard extends HTMLElement {
   set url (value) {
     this.setAttribute('url', value);
     this.setURL(value);
-  }
-
-  attributeChangedCallback (name, oldValue, newValue) {
-    if (oldValue !== newValue) {
-      this[name] = newValue;
-    }
   }
 
   constructor () {
