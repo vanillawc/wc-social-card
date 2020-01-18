@@ -38,14 +38,8 @@ Attributes
 <wc-social-card title="The Title" type="website" url="http://example.com" image="http://example.com/images/image.jpg"></wc-social-card>
 ```
 
-***Demo: [WC-Social-Card - Basic Usage][]***
+-----
 
-## Demo
+## Demos
 
-In addition to the links above each of the demos can be run locally with.
-
-```sh
-npm run start
-```
-
-[WC-Social-Card - Basic Usage]: https://vanillawc.github.io/wc-social-card/demo/index.html
+### [WC-Social-Card - Demo](https://vanillawc.github.io/wc-social-card/basic.html)
