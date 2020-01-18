@@ -14,14 +14,8 @@
   "repository": "https://github.com/vanillawc/wc-social-link/",
   "main": "index.js",
   "scripts": {
-    "start": "npx live-server --no-browser --open=dev",
-    "lint": "semistandard",
-    "package": "npx rimraf package && npm pack | tail -n 1 | xargs tar -xf",
-    "preversion": "npm run lint",
     "postversion": "git push --follow-tags"
   },
   "dependencies": {},
-  "devDependencies": {
-    "semistandard": "^14.2.0"
-  }
+  "devDependencies": {}
 }
